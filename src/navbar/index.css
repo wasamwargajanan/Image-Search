@@ -1,0 +1,11 @@
+div#default-modal{
+    background: rgba(0, 0, 0, 0.4);
+}
+.cartDivElement{
+    position: relative;
+}
+.cartLength{
+    position: absolute;
+    top: -15px;
+    left: 20px;
+}
